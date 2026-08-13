@@ -2,7 +2,7 @@
 Anime?
 # TizenBrew - AnimeVsub
 
-Module cho [TizenBrew](https://github.com/reisxd/TizenBrew) giúp mở **AnimeVietsub** trên Samsung Tizen TV thông qua trang web chính chủ `play.max.com`, có hỗ trợ điều khiển bằng remote TV (play/pause, tua, nút Back...).
+Module cho [TizenBrew](https://github.com/reisxd/TizenBrew) giúp mở **AnimeVietsub** trên Samsung Tizen TV thông qua trang web chính chủ `animevietsub.xyz`, có hỗ trợ điều khiển bằng remote TV (play/pause, tua, nút Back...).
 
 > ⚠️ Đây **không phải** app anime, cũng không bẻ khoá/crack DRM hay bypass bất cứ thứ gì. Bạn vẫn cần **tài khoản hợp lệ** để đăng nhập và xem như bình thường trên trình duyệt.
 
